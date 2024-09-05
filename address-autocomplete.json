@@ -1,0 +1,111 @@
+{
+  "result": {
+    "suggestions": [
+      {
+        "global_address_key": "aWQ9MjAgTWFpbiwgQ2",
+        "text": "Av. Libertador Bernardo O'Higgins 1449, Santiago, RM 8320000",
+        "formattedAddress": {
+          "address1": "Av. Libertador Bernardo O'Higgins 1449",
+          "city": "Santiago",
+          "countryCode": "CL",
+          "provinceCode": "RM",
+          "zip": "8320000"
+        },
+        "matched": [
+          {
+            "offset": 3,
+            "length": 4
+          },
+          {
+            "offset": 0,
+            "length": 2
+          }
+        ]
+      },
+      {
+        "global_address_key": "aWQ9MjAgTWFpbiBTdG",
+        "text": "Av. Apoquindo 3000, Las Condes, RM 7550000",
+        "formattedAddress": {
+          "address1": "Av. Apoquindo 3000",
+          "city": "Las Condes",
+          "countryCode": "CL",
+          "provinceCode": "RM",
+          "zip": "7550000"
+        },
+        "matched": [
+          {
+            "offset": 3,
+            "length": 4
+          },
+          {
+            "offset": 0,
+            "length": 2
+          }
+        ]
+      },
+      {
+        "global_address_key": "aWQ9MjAgTWFpbiwgV2",
+        "text": "Av. Providencia 1234, Providencia, RM 7500000",
+        "formattedAddress": {
+          "address1": "Av. Providencia 1234",
+          "city": "Providencia",
+          "countryCode": "CL",
+          "provinceCode": "RM",
+          "zip": "7500000"
+        },
+        "matched": [
+          {
+            "offset": 3,
+            "length": 4
+          },
+          {
+            "offset": 0,
+            "length": 2
+          }
+        ]
+      },
+      {
+        "global_address_key": "aWQ9MjAgTWFpbiBTvK",
+        "text": "Calle San Diego 850, Santiago, RM 8320000",
+        "formattedAddress": {
+          "address1": "Calle San Diego 850",
+          "city": "Santiago",
+          "countryCode": "CL",
+          "provinceCode": "RM",
+          "zip": "8320000"
+        },
+        "matched": [
+          {
+            "offset": 3,
+            "length": 4
+          },
+          {
+            "offset": 0,
+            "length": 2
+          }
+        ]
+      },
+      {
+        "global_address_key": "aWQ9MjAgTWFpbiBTlP",
+        "text": "Av. Vicuña Mackenna 4860, Macul, RM 7810000",
+        "formattedAddress": {
+          "address1": "Av. Vicuña Mackenna 4860",
+          "city": "Macul",
+          "countryCode": "CL",
+          "provinceCode": "RM",
+          "zip": "7810000"
+        },
+        "matched": [
+          {
+            "offset": 3,
+            "length": 4
+          },
+          {
+            "offset": 0,
+            "length": 2
+          }
+        ]
+      }
+    ]
+  }
+}
